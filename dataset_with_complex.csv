@@ -1,6 +1,3 @@
-Param,ComplexNumber
-0,0.0+1.0j
-1,1.0+2.0j
-2,2.0+3.0j
-3,3.0+4.0j
-4,4.0+5.0j
+version https://git-lfs.github.com/spec/v1
+oid sha256:cfbf3b4b03d89b6b14fdbe1db5362f723a35181e39133ca0e8a2ecd4d6fcd239
+size 75
